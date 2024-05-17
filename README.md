@@ -2,7 +2,7 @@
 
 Chore Door is a simple browser-based game where players choose one of three doors to open. Behind one of the doors is a chore, and behind the other two are pleasant surprises. The goal is to avoid opening the door with the chore behind it.
 
-![Chore Door Gameplay](https://github.com/mr-kerad/Chore-Door/blob/main/instruction.jpeg)
+![Chore Door Gameplay](https://github.com/mr-kerad/Chore-Door/blob/main/instruction.jpg)
 
 ## How to Play
 
