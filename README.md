@@ -6,7 +6,7 @@ Chore Door is a simple browser-based game where players choose one of three door
 
 ## How to Play
 
-1. **Start the Game**: Click on the "Start" button to begin a new round of the game.
+1. **Start the Game**: Click on the "Good Luck!" button to begin a new round of the game.
 2. **Choose a Door**: Click on one of the three doors to open it.
 3. **Outcome**: If you open the door with the chore behind it, the game ends, and you lose. If you open a door with a pleasant surprise, you win the round.
 4. **Play Again**: After a round ends, you can click on the "Play Again" button to start a new round.
@@ -27,12 +27,9 @@ Chore Door is a simple browser-based game where players choose one of three door
 
 ## Installation
 
-To play the Chore Door game, simply open the `index.html` file in your web browser.
+To play the Chore Door game, simply open [the `index.html` file](https://mr-kerad.github.io/Chore-Door/) in your web browser.
 
 ## Credits
 
 This game is inspired by the Chore Door project from the Codecademy Front-End Engineer Career Path course.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
