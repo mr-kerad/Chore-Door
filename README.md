@@ -27,7 +27,7 @@ Chore Door is a simple browser-based game where players choose one of three door
 
 ## Installation
 
-To play the Chore Door game, simply open [the `index.html` file](https://mr-kerad.github.io/Chore-Door/) in your web browser.
+To play the Chore Door game, simply open (https://mr-kerad.github.io/Chore-Door/) in your web browser.
 
 ## Credits
 
