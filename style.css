@@ -17,13 +17,13 @@ body {
   .instructions-title {
     display: inline;
     font-family: 'Work Sans';
-    font-size: 18px;
+    font-size: 36px;
     color: #00ffff;
   }
   
   .instructions-row {
     margin: 0 auto;
-    width: 400px;
+    width: 500px;
   }
   
   .instructions-number {
@@ -36,22 +36,23 @@ body {
   .instructions-text {
     padding: 10px;
     font-family: 'Work Sans';
-    font-size: 14px;
+    font-size: 16px;
     color: #ffffff;
   }
   
   .door-row {
     text-align: center;
+    margin: 50px 0;
   }
   
   .door-frame {
     cursor: pointer;
-    padding: 10px;
+    padding: 30px;
   }
   
   .start-row {
     margin: auto;
-    width: 120px;
+    width: 180px;
     height: 43px;
     background-color: #eb6536;
     padding-top: 18px;
